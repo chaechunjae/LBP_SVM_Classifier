@@ -3,7 +3,8 @@ using Local Binary Pattern, SVM to classifying image. Sub Detector for YOLO v3
 
 opencv v3 (opencv world 310)
 
-with visual studio 2013.
+with visual studio 2013. build project
+
 ------
 1. LBP feature
 
